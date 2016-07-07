@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "407984245719",
+    "firebase_url": "https://bhakti-cart.firebaseio.com",
+    "project_id": "bhakti-cart",
+    "storage_bucket": "bhakti-cart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407984245719:android:6b64590f2068ea9e",
+        "android_client_info": {
+          "package_name": "com.example.android.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407984245719-d15f2rhlbmos2bbkn19jalkdj1lmj3fg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.firebasedemo",
+            "certificate_hash": "750CB995796A43485E097AEE3C70DBF40452E050"
+          }
+        },
+        {
+          "client_id": "407984245719-ikd5gh3nr09kame1pbaqnqahr2kfbd68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrxa_72I26NhU5A3gvg5Jo3zJ_Dunca98"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407984245719-ikd5gh3nr09kame1pbaqnqahr2kfbd68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
